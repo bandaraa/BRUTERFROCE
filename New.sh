@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     SRILANKA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" Shehan lahiru [FR13ND8]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" Shehan lahiru "$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ ALL"$i"  |"
+echo $i" |"$cy"            ~ [cyber] [%MR.S%] [බන්ඩරවත්තේ කිරිහාමි]"$i" |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 0772292401"$i"             |"
+echo $i" |"$pu" Contack Gmail :"$ku" www.shehan9909@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -251,13 +251,13 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"."
 sleep 2
-echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
+echo $i" . "
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 0772294401"
+echo $ku"Facebook :"$i" shehan lahiru "
 sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> Thanks <<"
 exit
 fi
